@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TimeConverter/TimeConverter.vcxproj" Id="82ffae08-7208-43c5-a990-8fe7c0c35c5f" />
+  <Project Path="TimeConverterTests/TimeConverterTests.vcxproj" Id="68683804-b15e-464a-8dce-012d3ba4e0d3" />
+</Solution>
